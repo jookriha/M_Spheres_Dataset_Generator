@@ -6,7 +6,7 @@
 ## Citing
 Please cite following paper:
 ```
-bibtex here
+<bibtex here>
 ```
 
  
@@ -14,4 +14,4 @@ bibtex here
  - [Joonas Hämäläinen](https://github.com/jookriha)
 
 
-[1]: link to the paper
+[1]: <link to the paper here>
